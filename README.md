@@ -10,10 +10,10 @@ personal collections of compiler-related papers, papers are tagged with:
 
 ## compiler-for-ml
 
-- [2024][CGO]oneDNN Graph Compiler: A Hybrid Approach forHigh-Performance Deep Learning Compilation.pdf
-- [2023][DEGREE]TapeFlow: Streaming Gradient Tapes in Automatic Differentiation.pdf
-- [2024][CGO]A Tensor Algebra Compiler for SparseDifferentiation.pdf
+- [2024][CGO]A Tensor Algebra Compiler for Sparse Differentiation.pdf
+- [2024][CGO]TapeFlow: Streaming Gradient Tapes in Automatic Differentiation.pdf
 - [2023][PREPRINT]deltaSD: Differentiable Programming for Sparse Tensors.pdf
+- [2024][CGO]oneDNN Graph Compiler: A Hybrid Approach for High-Performance Deep Learning Compilation.pdf
 
 ## stateful-compiler
 
@@ -22,5 +22,5 @@ personal collections of compiler-related papers, papers are tagged with:
 
 ## compiler-for-dsa
 
-- [2024][CGO]Enhancing Performance through Control-FlowUnmerging and Loop Unrolling on GPUs.pdf
+- [2024][CGO]Enhancing Performance through Control-Flow Unmerging and Loop Unrolling on GPUs.pdf
 
